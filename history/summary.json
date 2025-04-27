@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 86,
-    "timeWeek": 108,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 133,
+    "timeDay": 283,
+    "timeWeek": 137,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.dbb.tw.ico",
     "slug": "tools",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 162,
-    "timeDay": 267,
-    "timeWeek": 172,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 158,
+    "timeDay": 108,
+    "timeWeek": 176,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2025-04-14": 39
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 282,
-    "timeWeek": 223,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 225,
+    "timeDay": 98,
+    "timeWeek": 217,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   }
 ]
