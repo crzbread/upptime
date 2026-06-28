@@ -19,12 +19,12 @@ status-website:
   logoUrl: https://github.com/crzbread.png
   name: DBB's 網站監控
   introTitle: "**網站狀態頁面** - 實時監控與可用性報告"
-  introMessage: 這是我們的狀態頁，使用 **GitHub Actions** 與 **Upptime** 即時監控網站狀態。查看 [GitHub 倉庫](https://github.com/crzbread) 了解更多。
+  introMessage: 這是我的全部網站狀態頁，使用 **GitHub Actions** 與 **Upptime** 即時監控網站狀態。查看 [GitHub 倉庫](https://github.com/crzbread) 了解更多。
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/crzbread
+      href: https://github.com/crzbread/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
